@@ -174,5 +174,22 @@
             "sexo": "F",
             "telefone": "(68) 99384-3354"
         }
+    ],
+    "unidades": [
+        {
+            "id": 1,
+            "endereco": "Rua Independência, 56 - Conjunto Bela Vista",
+            "nome": "Bela Vista"
+        },
+        {
+            "id": 2,
+            "endereco": "Rua Paulo VI, 100 - Bosque",
+            "nome": "Bosque"
+        },
+        {
+            "id": 3,
+            "endereco": "Rua Rui Barbosa, 252 - Centro",
+            "nome": "Cruzeiro do Sul"
+        }
     ]
 }
