@@ -8,7 +8,8 @@
             "unidade": "Unidade A",
             "telefone": "(68) 98205-4704",
             "email": "monique.nespoli@uol.com.br"
-        },{
+        },
+        {
             "id": 2,
             "nome": "Elielson Silveira Andrade",
             "registro": "CRM/AC 455",
@@ -16,7 +17,8 @@
             "unidade": "Unidade B",
             "telefone": "(68) 98085-4910",
             "email": "elielson.andrade@gmail.com"
-        },{
+        },
+        {
             "id": 3,
             "nome": "Davi Jesus Mendes",
             "registro": "CRM/AC 123",
@@ -24,7 +26,8 @@
             "unidade": "Unidade C",
             "telefone": "(68) 98408-5352",
             "email": "davi.mendes@yahoo.com"
-        },{
+        },
+        {
             "id": 4,
             "nome": "Carla da Paixão Valle",
             "registro": "CRM/AC 234",
@@ -32,7 +35,8 @@
             "unidade": "Unidade A",
             "telefone": "(68) 98395-5604",
             "email": "carla.valle@gmail.com"
-        },{
+        },
+        {
             "id": 5,
             "nome": "Neuza Biango Nobrega",
             "registro": "CRM/AC 232",
@@ -40,6 +44,38 @@
             "unidade": "Unidade B",
             "telefone": "(68) 98561-6622",
             "email": "neuza.nobrega@uol.com.br"
+        }
+    ],
+    "convenios": [
+        {
+            "id": 1,
+            "ativo": true,
+            "cnpj": "46.560.030/0001-53",
+            "email": "contato@unimedriobranco.com.br",
+            "nome": "Unimed",
+            "razao_social": "Unimed Rio Branco Cooperativa de Trabalho Médico Ltda.",
+            "representante": "Thayline Figueredo Vaz",
+            "telefone": "(68) 3668-1546"
+        },
+        {
+            "id": 2,
+            "ativo": true,
+            "cnpj": "29.309.127/0001-79",
+            "email": "contato@amil.com.br",
+            "nome": "Amil",
+            "razao_social": "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A.",
+            "representante": "Davi Faria da Conceição",
+            "telefone": "(11) 3279-3035"
+        },
+        {
+            "id": 3,
+            "ativo": true,
+            "cnpj": "92.693.118/0001-60",
+            "email": "contato@bradescosaude.com.br",
+            "nome": "Bradesco",
+            "razao_social": "BRADESCO SAUDE S.A.",
+            "representante": "Leandra Paes dos Anjos",
+            "telefone": "(21) 2503-0787"
         }
     ]
 }
